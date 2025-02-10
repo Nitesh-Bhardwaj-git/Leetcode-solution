@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -66,4 +67,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [3447-clear-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3447-clear-digits) |
+## String
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
