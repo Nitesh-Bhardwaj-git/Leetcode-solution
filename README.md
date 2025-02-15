@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3447-clear-digits) |
@@ -90,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3447-clear-digits) |
 ## String
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3447-clear-digits) |
 ## Graph
 |  |
