@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1364-tuple-with-same-product) |
 | [2434-design-a-number-container-system](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2448-count-number-of-bad-pairs) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1364-tuple-with-same-product) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2448-count-number-of-bad-pairs) |
 ## Tree
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3447-clear-digits) |
 ## Graph
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
