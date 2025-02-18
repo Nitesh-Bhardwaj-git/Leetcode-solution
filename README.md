@@ -151,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0278-first-bad-version) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
