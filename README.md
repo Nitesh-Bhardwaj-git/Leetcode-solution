@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0055-jump-game) |
+| [0088-merge-sorted-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0198-house-robber) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Dynamic Programming
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
