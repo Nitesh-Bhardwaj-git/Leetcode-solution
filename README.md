@@ -143,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
