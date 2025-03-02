@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Counting
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
