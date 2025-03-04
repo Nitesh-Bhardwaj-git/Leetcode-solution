@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1160-letter-tile-possibilities) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0191-number-of-1-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
