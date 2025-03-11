@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0402-remove-k-digits) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0402-remove-k-digits) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Data Stream
 |  |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2610-closest-prime-numbers-in-range) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
