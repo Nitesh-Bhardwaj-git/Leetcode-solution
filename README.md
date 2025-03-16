@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2665-minimum-time-to-repair-cars) |
+| [2690-house-robber-iv](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2665-minimum-time-to-repair-cars) |
+| [2690-house-robber-iv](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3643-zero-array-transformation-ii) |
 ## Interactive
 |  |
