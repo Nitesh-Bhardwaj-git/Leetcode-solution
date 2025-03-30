@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0055-jump-game) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2551-apply-operations-to-an-array) |
