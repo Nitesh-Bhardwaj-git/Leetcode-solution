@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0871-keys-and-rooms) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
