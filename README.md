@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
