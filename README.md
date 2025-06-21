@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0402-remove-k-digits) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1160-letter-tile-possibilities) |
