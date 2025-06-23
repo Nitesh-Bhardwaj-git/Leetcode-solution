@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2551-apply-operations-to-an-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0067-add-binary) |
 | [0402-remove-k-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0402-remove-k-digits) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1160-letter-tile-possibilities) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2478-longest-nice-subarray) |
