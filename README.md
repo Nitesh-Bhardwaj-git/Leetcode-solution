@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0169-majority-element) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1160-letter-tile-possibilities) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1364-tuple-with-same-product) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2308-divide-array-into-equal-pairs) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0169-majority-element) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Bit Manipulation
