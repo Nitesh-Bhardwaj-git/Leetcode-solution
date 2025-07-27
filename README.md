@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0189-rotate-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2308-divide-array-into-equal-pairs) |
