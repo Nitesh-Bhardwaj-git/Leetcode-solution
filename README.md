@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0088-merge-sorted-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0189-rotate-array) |
