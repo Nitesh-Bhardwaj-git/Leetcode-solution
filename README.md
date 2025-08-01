@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1160-letter-tile-possibilities) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2478-longest-nice-subarray) |
