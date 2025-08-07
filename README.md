@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0189-rotate-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
