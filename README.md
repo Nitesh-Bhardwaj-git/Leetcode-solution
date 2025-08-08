@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0189-rotate-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -399,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0196-delete-duplicate-emails) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
