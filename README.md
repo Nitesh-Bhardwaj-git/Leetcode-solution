@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/Nitesh-Bhardwaj-git/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
